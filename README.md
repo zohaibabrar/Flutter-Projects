@@ -1,6 +1,13 @@
-# stock_app
+# Stock Management App
 
 A new Flutter project.
+
+![Home Screen screenshot](https://user-images.githubusercontent.com/75172691/174449385-43b39b1d-48cd-4696-afe3-1b83e248c93c.jpg)
+
+![Screenshot_20220609-213511](https://user-images.githubusercontent.com/75172691/174449434-28553996-607f-4e02-b443-b6e2137f75a6.jpg)
+![Screenshot_20220609-213517](https://user-images.githubusercontent.com/75172691/174449467-33a559a5-4b65-4897-ae89-b66839f151e3.jpg)
+
+
 
 ## Getting Started
 
